@@ -12,10 +12,8 @@
 -->
 
 - 🔭 I’m currently working on Prefeitura Municipal de Maringá / PR / Brazil
-- 🔭 In my free time, I work with photography 
-<div>
-<a href="https://www.oiaopassarinho.com.br" target="_blank"></a>
-</div>
+- 🔭 In my free time, I work with photography ( http://www.oiaopassarinho.com.br )
+- 🌱 I’m currently learning PHP / Laravel
 
 ## Contatos:
 <div>
